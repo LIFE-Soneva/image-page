@@ -23,6 +23,6 @@
 </head>
 <body>
     <h1>Welcome to Your Island Paradise</h1>
-    <img src="WhatsApp Image 2025-07-23 at 12.56.44_7249587a.jpg" alt="Overwater Villa">
+    <img src="whatsapp-image-2025.jpg" alt="Overwater Villa">
 </body>
 </html>
