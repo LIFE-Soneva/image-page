@@ -23,6 +23,6 @@
 </head>
 <body>
     <h1>Welcome to Your Island Paradise</h1>
-    <img src="SJRwvilla.jpg">
+    <img src="SJRwvilla.jpg" alt+"SJRwvilla.jpg">
 </body>
 </html>
